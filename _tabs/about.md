@@ -27,3 +27,5 @@ Arch & Ubuntu, VSCode/Emacs
 ​		[Aya_Uchida](https://www.cnblogs.com/Aya-Uchida/)
 
 ​		[rapiz](https://rapiz.me)
+
+​		[Nanami](https://shiraha.cn/)
